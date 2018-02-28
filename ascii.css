@@ -63,6 +63,7 @@ header {
     display: block;
     font-family: monospace;
     white-space: pre;
+    line-height: 1;
 }
 
 .ascii-input {
