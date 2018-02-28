@@ -1,2 +1,2 @@
-# ascii
-ASCII Frontend framework
+# ASCII Frontend framework
+Work with JQuery
