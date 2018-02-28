@@ -48,6 +48,10 @@ header {
     cursor: pointer;
 }
 
+.ascii-panel, .ascii-panel .ascii-content {
+    line-height: 1.5 !important;
+}
+
 .ascii-content .ascii-panel-text {
     position: absolute;
     padding: 0 12px;
